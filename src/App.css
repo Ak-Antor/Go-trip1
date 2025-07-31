@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+
+.slick-prev {
+    left: -19px;
+    z-index: 10;
+        width: 40px;
+    background: white;
+    color: black;
+box-shadow: inset 0px 5px 15px -3px rgba(0, 0, 0, 0.2);
+    height: 40px;
+    border-radius: 50%;
+}
+
+
+.slick-prev:before, .slick-next:before {
+    font-family: 'slick';
+    font-size: 20px;
+    line-height: 1;
+    opacity: .75;
+    color: black;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+.slick-prev:before, .slick-next:before {
+    font-family: 'slick';
+    font-size: 20px;
+    line-height: 1;
+    opacity: .75;
+    color: black;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+.slick-next {
+    width: 40px;
+    right: 50px;
+    background: #FFFFFF;
+    color: black;
+    box-shadow: inset 0px 5px 15px -3px rgba(0, 0, 0, 0.2);
+    height: 40px;
+    border-radius: 50%;
+}
+
+
+.antor-prev{
+    background: red;
+        margin-top: 300px;
+    margin-left: 500px;
+
+}
+
+
+.antor-next{
+    background: red;
+}
+
+
+
+
+
+
+
